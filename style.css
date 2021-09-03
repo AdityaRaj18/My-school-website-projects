@@ -1,0 +1,9 @@
+#marquee {
+  font-size: 22;
+}
+body {
+    text-align: center;
+}
+#imgdiv {
+    background: linear-gradient(#43cea2 0%,  #185a9d 100%);
+}
